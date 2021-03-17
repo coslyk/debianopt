@@ -1,0 +1,5 @@
+Codename: bullseye
+Architectures: amd64
+Components: main
+Description: DebianOpt repository
+SignWith: 2B32A4E6474CEE189A3F5867BA64B0472109C330
