@@ -344,6 +344,22 @@ Description: Qt based ebook reader
   * cbr / cbz
   * md
 
+Package: melody
+Version: 2.2.1-1~opt11
+Architecture: amd64
+Maintainer: Artem Anufrij <artem.anufrij@live.de>
+Installed-Size: 1457
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.4), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite5 (>= 5.1.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.0.0), libgtk-3-0 (>= 3.21.5), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90), libsqlite3-0 (>= 3.5.9), libtagc0 (>= 1.5)
+Priority: optional
+Section: x11
+Filename: pool/main/m/melody/melody_2.2.1-1~opt11_amd64.deb
+Size: 214668
+SHA256: e1710091c48fad19c9368fb4b76319866c1e57e90039400c833f9afb491d0aa7
+SHA1: 6d1903e53dcf17f5bd57c5f2143888b7a80072ee
+MD5sum: 27b22a9ed6320a46a7c96ff39ba3269a
+Description: Simple music player
+ A music player for listening local music files and online radios, written especially for elementary OS
+
 Package: moonplayer
 Version: 3.7-1~opt11
 Architecture: amd64
@@ -411,4 +427,271 @@ SHA256: 4a2a0dc6eea5af216680dd944062150a9f3ef341adb363c6edc59df763b247df
 SHA1: 9ab9797d8d6ea13db48d5b926b2598fb9c72e9ad
 MD5sum: 9ef879ecf0299d06425de6590f11db7b
 Description: Qv2ray, A Qt frontend for v2ray. Written in c++.
+
+Package: remotely
+Version: 1.0-1~opt11
+Architecture: amd64
+Maintainer: Yikun Liu <cos.lyk@gmail.com>
+Installed-Size: 120
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.4), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.16.2), libgtk-vnc-2.0-0 (>= 0.3.10)
+Priority: extra
+Section: net
+Filename: pool/main/r/remotely/remotely_1.0-1~opt11_amd64.deb
+Size: 16896
+SHA256: 2485d3d4e23d86e049727d3cd0eb7318ab8b872ff32a5d12706b4922a55b5b9c
+SHA1: 9c72247f058ae84c63030e32d3b90f5e92a9e3b1
+MD5sum: aa72a69e5f81f9946352cd8400932e34
+Description: A simple VNC viewer
+ Remotely is a simple VNC viewer for the GNOME desktop environment. It
+ supports common authentication methods. The display can be adjusted with
+ three different modes so that the most optimal presentation is always
+ possible, regardless of the remote display size.
+
+Package: sdlpal
+Version: 2.0.2021.0214-1~opt11
+Architecture: amd64
+Maintainer: coslyk <cos.lyk@gmail.com>
+Installed-Size: 5100
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.29), libfltk1.3 (>= 1.3.1), libgcc-s1 (>= 3.0), libgl1, libsdl2-2.0-0 (>= 2.0.12), libstdc++6 (>= 5.2)
+Homepage: https://github.com/sdlpal/sdlpal
+Priority: optional
+Section: games
+Filename: pool/main/s/sdlpal/sdlpal_2.0.2021.0214-1~opt11_amd64.deb
+Size: 1783580
+SHA256: 66cedbaba3a0aef3d926e3bb150cf86a85f5c6a8c3c1ee5b4d4b9bdea3fc9f5d
+SHA1: 1860fbd6d19eb3aacc04210b4ab7e981761c480b
+MD5sum: 5320a4957ba539da334f4da4652dc02e
+Description: SDL-based reimplementation of the classic Chinese-language RPG "Xian jian Qi Xia Zhuan" (also known as PAL).
+
+Package: spectator
+Version: 0.5.7-1~opt11
+Architecture: amd64
+Maintainer: Marvin Ahlgrimm <marv.ahlgrimm@gmail.com>
+Installed-Size: 1217
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.14), libcairo2 (>= 1.2.4), libduktape205 (>= 2.0.3), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite5 (>= 0.5), libgtk-3-0 (>= 3.22.29), libgtksourceview-3.0-1 (>= 2.91.4), libjson-glib-1.0-0 (>= 1.5.2), libpango-1.0-0 (>= 1.14.0), libsoup2.4-1 (>= 2.41.90), libsqlite3-0 (>= 3.5.9), libwebkit2gtk-4.0-37 (>= 2.15.3), libxml2 (>= 2.7.4)
+Priority: extra
+Section: x11
+Filename: pool/main/s/spectator/spectator_0.5.7-1~opt11_amd64.deb
+Size: 153908
+SHA256: 38dd7828af6bd6ce17dd2a2a2466bcd4d8a176f980235e50f2e26481c730f684
+SHA1: f073ae48d27e2943a441a0ce966556c2876b21c6
+MD5sum: 4c2e6abb5926f3e52e78b814269aae70
+Description: Spectator
+ Application to check endpoints
+
+Package: textadept
+Version: 11.1-1~opt11
+Architecture: amd64
+Maintainer: coslyk <cos.lyk@gmail.com>
+Installed-Size: 12197
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.29), libcairo2 (>= 1.8.0), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.21.5), libncursesw6 (>= 6), libpango-1.0-0 (>= 1.18.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libtinfo6 (>= 6)
+Homepage: https://foicica.com/textadept/
+Priority: optional
+Section: text
+Filename: pool/main/t/textadept/textadept_11.1-1~opt11_amd64.deb
+Size: 3825448
+SHA256: c86696e942431ddbb7e566ae310fa6993df779e0997dc6e42c85ccda16ceace0
+SHA1: 339286ef0c788d0c34ce8b5250c3d0953fd49cde
+MD5sum: c16d1239328b05ad80f1603afd9355c1
+Description: A fast, minimalist, and remarkably extensible cross-platform text editor
+
+Package: trelby
+Version: 2.2.0-1~opt11
+Architecture: all
+Maintainer: Anil Gulecha <anil.verve@gmail.com>
+Installed-Size: 1984
+Depends: python-wxgtk3.0, python-crypto, python-lxml
+Homepage: http://www.trelby.org/
+Priority: extra
+Section: python
+Filename: pool/main/t/trelby/trelby_2.2.0-1~opt11_all.deb
+Size: 1394172
+SHA256: db7a55860e8af6801f86644d0b120b2db0e7d0940db094b11e49964258833416
+SHA1: adf445af962f5fb981621d1aa50a291126f5defa
+MD5sum: 0d170a08a411005b1d18066e8b10b556
+Description: Feature-rich screenwriting program
+ Trelby is a simple, powerful, full-featured, multi-platform program for
+ writing movie screenplays. It is simple, fast and elegantly laid out to
+ make screenwriting simple, and it is infinitely configurable.
+ .
+ Features:
+ .
+  * Screenplay editor: Enforces correct script format and pagination,
+    auto-completion, and spell checking.
+  * Multiplatform: Behaves identically on all platforms, generating the exact
+    same output.
+  * Choice of view: Multiple views, including draft view, WYSIWYG mode,
+    and fullscreen to suit your writing style.
+  * Name database: Character name database containing over 200,000 names
+    from various countries.
+  * Reporting: Scene/location/character/dialogue reports.
+  * Compare: Ability to compare scripts, so you know what changed between
+    versions.
+  * Import: Screenplay formatted text, Final Draft XML (.fdx)
+     and Celtx (.celtx).
+  * Export: PDF, formatted text, HTML, RTF, Final Draft XML (.fdx).
+  * PDF: Built-in, highly configurable PDF generator. Supports embedding your
+    chosen font. Also supports generating PDFs with custom watermarks,
+    to help track shared files.
+  * Free software: Licensed under the GPL, Trelby welcomes developers and
+    screenwriters to contribute in making it more useful.
+
+Package: vgrive
+Version: 1.6.1-1~opt11
+Architecture: amd64
+Maintainer: Eduard Berloso Clarà <eduard.bc.95@gmail.com>
+Installed-Size: 1777
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.39.4), libgranite5 (>= 5.1.0), libgtk-3-0 (>= 3.21.4), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90)
+Priority: extra
+Section: x11
+Filename: pool/main/v/vgrive/vgrive_1.6.1-1~opt11_amd64.deb
+Size: 107552
+SHA256: f55d7299ee4e792098211cb2a4f60e294568f1f8770f69c137569968dc54ee62
+SHA1: e67186403d6464a78eca9404d87fdb80592b76ae
+MD5sum: 3194492184c0c58eb0659ed35494de29
+Description: VGrive is a client (back-end and front-end) for Google Drive made in vala.
+ Automaticlly detects changes in local and remote files and sync them.
+
+Package: vidbox
+Version: 0.2-1~opt11
+Architecture: amd64
+Maintainer: Yikun Liu <cos.lyk@gmail.com>
+Installed-Size: 458
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.14), libcairo2 (>= 1.2.4), libepoxy0 (>= 1.0), libgdk-pixbuf-2.0-0 (>= 2.25.2), libglib2.0-0 (>= 2.43.92), libgtk-3-0 (>= 3.16.2), libjson-glib-1.0-0 (>= 1.5.2), libmpv1 (>= 0.29), ffmpeg
+Priority: optional
+Section: utils
+Filename: pool/main/v/vidbox/vidbox_0.2-1~opt11_amd64.deb
+Size: 62340
+SHA256: 33f609adf3b20bb486c6d6642cd132085b62a0a45f801bd136f0c96c5c582ab0
+SHA1: 9177e0df0c863aaad6218791d882ffd7f88e41b7
+MD5sum: 37e18b2e64e1148bf079df2aa53d0d62
+Description: A tiny video toolbox
+ VidBox is a tiny but useful tool that allows you to split, merge videos and so on.
+
+Package: vocal
+Version: 2.4.2-1~opt11
+Architecture: amd64
+Maintainer: Nathan Dyer <mail@nathandyer.me>
+Installed-Size: 2019
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.14), libcairo2 (>= 1.2.4), libclutter-1.0-0 (>= 1.10.0), libclutter-gst-3.0-0 (>= 3.0.4), libclutter-gtk-1.0-0 (>= 1.3.2), libgdk-pixbuf-2.0-0 (>= 2.25.2), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite5 (>= 0.2.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.0.0), libgtk-3-0 (>= 3.16.2), libjson-glib-1.0-0 (>= 1.5.2), libnotify4 (>= 0.7.0), libsoup2.4-1 (>= 2.41.90), libsqlite3-0 (>= 3.5.9), libx11-6, libxml2 (>= 2.7.4)
+Priority: optional
+Section: sound
+Filename: pool/main/v/vocal/vocal_2.4.2-1~opt11_amd64.deb
+Size: 369892
+SHA256: 14e1d2a8c436b6c08a8cb161fc6b162af1a01c436e7e47dda881380a80515978
+SHA1: 1fc1c7ca56d03588420641c272f78419b26470b3
+MD5sum: c6d3d66961eb5fbd12c6f8db63681b82
+Description: Vocal
+ Simple podcast client for the modern desktop.
+
+Package: winetricks-zh
+Version: 20201206.1-1~opt11
+Architecture: amd64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 957
+Depends: wine | wine-development | wine-staging
+Recommends: zenity | kde-baseapps-bin
+Homepage: https://github.com/hillwoodroc/winetricks-zh
+Priority: extra
+Section: utils
+Filename: pool/main/w/winetricks-zh/winetricks-zh_20201206.1-1~opt11_amd64.deb
+Size: 161164
+SHA256: 652423cd1ce5e18157f865e516d73b741e8d9ce679e030cdbc94eb980653a8ac
+SHA1: 16cf77668ffc4097b9046c36062195e6c04d3369
+MD5sum: b9cbc9a354b6d69ace1c95aa1b2192bb
+Description: package manager for Wine to install Chinese-related software easily
+ A shell script 'package manager' for Wine to install some
+ Chinese-related Windows software easily.
+ .
+ The list contains some important Chinese-oriented applications like
+ wechat, qq, TM, etc.
+
+Package: woeusb
+Version: 3.3.1-1~opt11
+Architecture: amd64
+Maintainer: 林博仁 (Buo-Ren, Lin) <Buo.Ren.Lin@gmail.com>
+Installed-Size: 591
+Depends: bash (>= 4.3), dosfstools, gettext, grub2-common, grub-pc-bin, ntfsprogs | ntfs-3g, p7zip-full, parted, policykit-1, realpath | coreutils (>= 8.23), wget, libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.5.1+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.5.1+dfsg)
+Homepage: https://github.com/slacka/WoeUSB
+Priority: optional
+Section: utils
+Filename: pool/main/w/woeusb/woeusb_3.3.1-1~opt11_amd64.deb
+Size: 245684
+SHA256: 44ab0804cf706548ccb7a24eb93d78865b8bb387767a44369f518d3d0dacd80e
+SHA1: 5bc82b74ba95c61e733cf531d042e7cd5e3085eb
+MD5sum: ef40888313880c037f99cb44712fd5a1
+Description: Bootable Windows installation/PE USB storage creator
+ This package contains two programs:
+ .
+  - woeusb: An command-line utility that enables you to create your own bootable
+  Windows installation USB storage device from an existing Windows Installation
+  DVD or its ISO image.
+  - woeusbgui: A woeusb's GUI wrapper program based on WxWidgets GUI library.
+ .
+ Supported images: Windows Vista~10+ installation media for any language and
+ edition(Home/Professional...) and Windows PE-based media.
+ .
+ WoeUSB is a fork of Colin GILLE / congelli501's WinUSB software.
+ http://en.congelli.eu/prog_info_winusb.html
+
+Package: wxformbuilder
+Version: 3.9.0-1~opt11
+Architecture: amd64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 7189
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), libwxbase3.0-0v5 (>= 3.0.5.1+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.5.1+dfsg)
+Priority: optional
+Section: devel
+Filename: pool/main/w/wxformbuilder/wxformbuilder_3.9.0-1~opt11_amd64.deb
+Size: 1539392
+SHA256: 0b191d16a82848f08e85ed67daed2a5361413cb0b3c8d74a11aa7fb91a811fe2
+SHA1: 8d163def508fdc8cbc948b7b0d470235e212bf1a
+MD5sum: 2629a767950b68376ad810e21f385925
+Description: RAD tool for wxWidgets GUI design.
+
+Package: xournalpp
+Version: 1.0.20-hotfix-1~opt11
+Architecture: amd64
+Maintainer: Andreas Butti <andreasbutti@gmail.com>
+Installed-Size: 4699
+Depends: libglib2.0-0 (>= 2.32), libgtk-3-0 (>= 3.18), libpoppler-glib8 (>= 0.41.0), libxml2 (>= 2.0.0), libportaudiocpp0 (>= 12), libsndfile1 (>= 1.0.25), liblua5.3-0, libzip4 (>= 1.0.1) | libzip5, zlib1g, libc6
+Suggests: texlive-base, texlive-latex-extra
+Homepage: https://github.com/xournalpp/xournalpp/
+Priority: optional
+Section: misc
+Filename: pool/main/x/xournalpp/xournalpp_1.0.20-hotfix-1~opt11_amd64.deb
+Size: 1108616
+SHA256: 822db3d411ea6d8d1b67d25384efdc4cfb8691c1c8318c6da45f852430993f6c
+SHA1: 80e84eb6d8f8c835d442b6c712da1fee213fc597
+MD5sum: 14b25f1fe4cb2090b234ed817f7724cf
+Description: Xournal++ - Open source hand note-taking program
+ Xournal++ is a hand note taking software written in C++ with the target of
+ flexibility, functionality and speed. Stroke recognizer and other parts are
+ based on Xournal Code, which you can find at sourceforge.
+ It supports Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10.
+ Supports pen input from devices such as Wacom Tablets.
+ .
+ Xournal++ features:
+ .
+  - Support for Pen pressure, e.g. Wacom Tablet
+  - Support for annotating PDFs
+  - Fill shape functionality
+  - PDF Export (with and without paper style)
+  - PNG Export (with and without transparent background)
+  - Allows maping different tools/colors etc. to stylus/mouse buttons
+  - Sidebar with Page Previews with page sorting, PDF Bookmarks and Layers
+  - Enhanced support for image insertion
+  - Eraser with multiple configurations
+  - LaTeX support (requires a working LaTeX install)
+  - Bug reporting, autosave, and auto backup tools
+  - Customizeable toolbar, with multiple configurations
+  - Page Template definitions
+  - Shape drawing (line, arrow, circle, rect)
+  - Shape resizing and rotation
+  - Rotation snapping every 45 degrees
+  - Rect snapping to grid
+  - Audio recording and playback alongside with handwritten notes
+  - Multi Language Support, English, German, Italian, ...
+  - Plugins using Lua Scripting
 
