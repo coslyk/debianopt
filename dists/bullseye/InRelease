@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: bullseye
+Date: Wed, 17 Mar 2021 15:47:39 UTC
+Architectures: amd64
+Components: main
+Description: DebianOpt repository
+MD5Sum:
+ cf5161907c91009a1468f9fc3515b8f6 19736 main/binary-amd64/Packages
+ 289efe914e9e096bff8e96fa77c57851 6666 main/binary-amd64/Packages.gz
+ 9274c3e8d00f5e724377d18d230ef2d0 70 main/binary-amd64/Release
+SHA1:
+ e97e7cacb56abc8f05edf9100e8e36245a2696ee 19736 main/binary-amd64/Packages
+ c1e560d0e8de41f0822569ca97bc138ab0de5eb3 6666 main/binary-amd64/Packages.gz
+ 64a6c40f3bd6647cd9a590ab5d82c8d5c66c2a21 70 main/binary-amd64/Release
+SHA256:
+ 4f42b6fb1e4fbb492aadc82a7c38d1bbbff2a052ea92b486a2bc1de5e0ecb878 19736 main/binary-amd64/Packages
+ 42439f6846780e57ce4ae9242994cb09b091a6441184a503a7f74c3ecdd073a6 6666 main/binary-amd64/Packages.gz
+ 898e8b1118f0fec9ade8fb799cf8468e09a40043afb1f058f430cbe1b1d35dcc 70 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJgUiSbAAoJELpksEchCcMwSBcIAKBg+HXzO0/LC/eVxCal2Kv/
+6PJN+dVeSSQIccjK7qNRMeCKMF60B8B2Jb+v8LyIJ34BpU4tnwN+AenG19ZeDaqD
+Qj++oqATWwEtG+UJSmcjN2US3pM+Vt3+h4W+sCRkJro/llHEiSKnpeYGixyq0DaJ
+/EFuDhYGqZIDzCpTw6k4vAF5+mBzXafFQlHagkKWNSkuC75uzpgVtpuVB4GT/lnV
+XWMOaUNqM+V81bg0nLYWzz/gIZ8Fa9IiQfS/jSRgFfjY3FgcBobExlLtfv1fHev5
+lo0oU+XQ767yIj0N7ZXtkgjOAXzK/trhFw+BF41yHIs8KFg2SQxBWQOsQLMFgkQ=
+=3E1G
+-----END PGP SIGNATURE-----
