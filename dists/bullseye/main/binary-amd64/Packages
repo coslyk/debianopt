@@ -394,8 +394,25 @@ MD5sum: 3c4c38ae1f70f2a9567ca7a06e2a6a50
 Description: Music player
  Music player for Netease Cloud Music based on Rust and Gtk.
 
+Package: notes-up
+Version: 2.0.2-1~opt11
+Architecture: amd64
+Maintainer: Felipe Escoto <felescoto95@hotmail.com>
+Installed-Size: 769
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.14), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.37.3), libgranite5 (>= 5.2.1), libgtk-3-0 (>= 3.21.5), libgtksourceview-3.0-1 (>= 3.16.1), libgtkspell3-3-0 (>= 3.0.3), libmarkdown2 (>= 2.0.6), libpango-1.0-0 (>= 1.14.0), libsqlite3-0 (>= 3.5.9), libwebkit2gtk-4.0-37 (>= 2.15.1)
+Priority: optional
+Section: editors
+Filename: pool/main/n/notes-up/notes-up_2.0.2-1~opt11_amd64.deb
+Size: 210564
+SHA256: 98ab7a49e7c52be54a6b7009ef4c0fd9d58f54b6207e831e856668f332653001
+SHA1: e61fff065049afbe6eb593eac2d6839a25138b9d
+MD5sum: 8a5aa8bf29c723f27bf5ac6a2d55600b
+Description: markdown notes manager
+ Markdown notes manager for elementary os.
+
 Package: qownnotes
-Version: 21.3.1-1~opt11
+Version: 21.3.2-1~opt11
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
 Installed-Size: 20957
@@ -403,11 +420,11 @@ Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gu
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_21.3.1-1~opt11_amd64.deb
-Size: 3951032
-SHA256: bc00817e45218c36db9e3122d96041d81ff363a7854eac431b4ade5c48ce5419
-SHA1: 7788ca0c44538112b1e822142c5071f570b69bcf
-MD5sum: dc15af17f3260d8fa6fc645f4315844e
+Filename: pool/main/q/qownnotes/qownnotes_21.3.2-1~opt11_amd64.deb
+Size: 3948600
+SHA256: 72823202064150f67bbb8d5299cb73088dfc0283e673ac333e128c720f62f9ab
+SHA1: 5b3f6d2cbe71d7e46dd23e5a627f19b4e89910aa
+MD5sum: 6060f1531c0cd6b1b201b9f9b15f3a40
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
@@ -606,6 +623,25 @@ Description: package manager for Wine to install Chinese-related software easily
  .
  The list contains some important Chinese-oriented applications like
  wechat, qq, TM, etc.
+
+Package: wiznote
+Version: 2.8.6-1~opt11
+Architecture: amd64
+Maintainer: leaeasy <leaeasy@slingshot.corp.linuxdeepin.com>
+Installed-Size: 22104
+Depends: libc6 (>= 2.29), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webengine5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libx11-6, zlib1g (>= 1:1.1.4)
+Homepage: http://www.wiznote.com
+Priority: optional
+Section: graphics
+Filename: pool/main/w/wiznote/wiznote_2.8.6-1~opt11_amd64.deb
+Size: 5159336
+SHA256: d168342b30fcea5bfd138c79e8fefb29146828561257a8ba60fdeae9213a7033
+SHA1: 94da381fe20ab06a4038a5b3df2c4be5609e1551
+MD5sum: 96ab357fc4f85310998871a711a9fe35
+Description: Cross platform cloud based note-taking application
+ Cross platform cloud based note-taking application.
+ .
+ Please refer to WizNote home for more detailed info: http://www.wiznote.com.
 
 Package: woeusb
 Version: 3.3.1-1~opt11
