@@ -14,6 +14,26 @@ MD5sum: c83f51d458e3317e50e64532b51cc278
 Description: Store and manage passwords securely
  A clean and easy-to-use password manager that securely stores all your passwords in your device.
 
+Package: appeditor
+Version: 1.1.3-1~opt12
+Architecture: amd64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 598
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.17.9), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0)
+Priority: optional
+Section: utils
+Filename: pool/main/a/appeditor/appeditor_1.1.3-1~opt12_amd64.deb
+Size: 86052
+SHA256: 6e7aef4fa95f2729520626ed3a0bb34b71dffa5e29c06931d13c137bf50e28dd
+SHA1: 0d01c39630461adab74bd4ca78372baee427cf50
+MD5sum: 39951d9fc5980630b3a574e71df6e68c
+Description: Edit application menu
+ AppEditor allows you to edit application entries in the application menu. Some of it's features include:
+ .
+  * Hide and show applications from the application menu
+  * Create new application entries
+  * Change application's display name, icon and more
+
 Package: bingle
 Version: 0.1-1~opt12
 Architecture: amd64
@@ -43,6 +63,22 @@ SHA256: 7aa98613cd9984974c962015d7912e84dfa4f54e4e1f53ecdd24fa9ef01f87c4
 SHA1: e7ea756c4468b4c541b22ac20d3e67e4f7aaf7f6
 MD5sum: f46178f20dd45e4c36079565ee231f78
 Description: A multimedia file converter focused on simplicity.
+
+Package: colorpicker
+Version: 1.1.5-1~opt12
+Architecture: amd64
+Maintainer: Ronny Dobra <ronnydobra@arcor.de>
+Installed-Size: 199
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.4)
+Priority: extra
+Section: x11
+Filename: pool/main/c/colorpicker/colorpicker_1.1.5-1~opt12_amd64.deb
+Size: 28800
+SHA256: e6f4f0eece00c430b04cc71a499ecf0142875c1ec9e0d3fed16a2e3ea4d5d24b
+SHA1: ac7082c91f980d9e6771d5ecc03605304d8b395a
+MD5sum: 27b349ce8b811fc50cdbe41119f8e606
+Description: An intuitive Color Picker
+ The most intuitive Color Picker to speed up your workflow
 
 Package: eddy
 Version: 1.3.2-1~opt12
@@ -215,8 +251,25 @@ MD5sum: 5a05216393e08f9564229c30b8cff781
 Description: Video player
  Video player for playing and downloading online videos from youtube, bilibili etc.
 
+Package: notes-up
+Version: 2.0.6-1~opt12
+Architecture: amd64
+Maintainer: Felipe Escoto <felescoto95@hotmail.com>
+Installed-Size: 709
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.5), libgtksourceview-4-0 (>= 3.16.1), libgtkspell3-3-0 (>= 3.0.3), libmarkdown2 (>= 2.0.6), libpango-1.0-0 (>= 1.14.0), libsqlite3-0 (>= 3.5.9), libwebkit2gtk-4.0-37 (>= 2.15.1)
+Priority: optional
+Section: editors
+Filename: pool/main/n/notes-up/notes-up_2.0.6-1~opt12_amd64.deb
+Size: 165988
+SHA256: c20116a3a45879e75b8f93f50d834a1818ebb73f289ced1668b23d824f770aa3
+SHA1: d6f8b71773c0213e963dad5e1ea78fd2a8af9e9e
+MD5sum: 002b2b56322a8ea41a0273340c397947
+Description: markdown notes manager
+ Markdown notes manager for elementary os.
+
 Package: qownnotes
-Version: 23.4.0-1~opt12
+Version: 23.4.1-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
 Installed-Size: 23825
@@ -224,11 +277,11 @@ Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gu
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_23.4.0-1~opt12_amd64.deb
-Size: 4268516
-SHA256: c04fa463da93367bc959044c9b48b06c90f9a28a00b7f20e748b064428ec354a
-SHA1: 427dd83617d645d89cf2dea52bdcdce0f9ecef12
-MD5sum: 00a4f0f39bb1a10660e470b7a544915b
+Filename: pool/main/q/qownnotes/qownnotes_23.4.1-1~opt12_amd64.deb
+Size: 4270048
+SHA256: 4521005cafc1c94b6d9543d24fef41ebf190d9e7d51e3b76e956ecef00d1ebfe
+SHA1: 5765b92d622f12782259a315da401486056bc7d8
+MD5sum: 4928f6583caf233fe5b1e6283c6637af
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
@@ -280,6 +333,22 @@ SHA1: ca913d182ead587f9830bea6e82a7670bf82d44b
 MD5sum: 4bda13708ee9f06fd06994df604ba9ff
 Description: Spectator
  Application to check endpoints
+
+Package: vala-language-server
+Version: 0.48.7-1~opt12
+Architecture: amd64
+Maintainer: Yikun Liu <cos.lyk@gmail.com>
+Installed-Size: 950
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: libc6 (>= 2.34), libgee-0.8-2 (>= 0.20.0), libglib2.0-0 (>= 2.61.2), libjson-glib-1.0-0 (>= 1.5.2), libjsonrpc-glib-1.0-1 (>= 3.27.90), libvala-0.56-0 (>= 0.55.90), ffmpeg
+Priority: optional
+Section: devel
+Filename: pool/main/v/vala-language-server/vala-language-server_0.48.7-1~opt12_amd64.deb
+Size: 278736
+SHA256: 1a5b427057b0e52323c4f8e1352813ab13368cdd8eaf6970c68a1557d14c0ed1
+SHA1: efe1bdc0ee939ee8841da2813355112d6c1f3318
+MD5sum: 51fbece6238568d9b575b861d997f54d
+Description: Code Intelligence for Vala & Genie.
 
 Package: vidbox
 Version: 0.2-1~opt12
@@ -338,4 +407,32 @@ Description: Cross platform cloud based note-taking application
  Cross platform cloud based note-taking application.
  .
  Please refer to WizNote home for more detailed info: http://www.wiznote.com.
+
+Package: woeusb
+Version: 3.3.1-1~opt12
+Architecture: amd64
+Maintainer: 林博仁 (Buo-Ren, Lin) <Buo.Ren.Lin@gmail.com>
+Installed-Size: 579
+Depends: bash (>= 4.3), dosfstools, gettext, grub2-common, grub-pc-bin, ntfsprogs | ntfs-3g, p7zip-full, parted, policykit-1, realpath | coreutils (>= 8.23), wget, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), libwxbase3.2-1 (>= 3.2.2+dfsg), libwxgtk3.2-1 (>= 3.2.1+dfsg-2)
+Homepage: https://github.com/slacka/WoeUSB
+Priority: optional
+Section: utils
+Filename: pool/main/w/woeusb/woeusb_3.3.1-1~opt12_amd64.deb
+Size: 246468
+SHA256: fd7d3a219a98d4fac4fc1960482ab8a0efe56ae2c91d9dd7f240770300ea9ff7
+SHA1: a4edfc8b8815652b5fb4e779b9fa803542d80fc0
+MD5sum: 2aaa0d58ba468edf93cc3e83bf9cbba0
+Description: Bootable Windows installation/PE USB storage creator
+ This package contains two programs:
+ .
+  - woeusb: An command-line utility that enables you to create your own bootable
+  Windows installation USB storage device from an existing Windows Installation
+  DVD or its ISO image.
+  - woeusbgui: A woeusb's GUI wrapper program based on WxWidgets GUI library.
+ .
+ Supported images: Windows Vista~10+ installation media for any language and
+ edition(Home/Professional...) and Windows PE-based media.
+ .
+ WoeUSB is a fork of Colin GILLE / congelli501's WinUSB software.
+ http://en.congelli.eu/prog_info_winusb.html
 
