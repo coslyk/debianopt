@@ -1,17 +1,17 @@
 Codename: bookworm
-Date: Sun, 09 Apr 2023 06:02:02 UTC
+Date: Sat, 15 Apr 2023 03:08:52 UTC
 Architectures: amd64
 Components: main
 Description: DebianOpt repository
 MD5Sum:
- 5d4a15cd45f5a29c0e2704b96dd7cd73 20126 main/binary-amd64/Packages
- 8428df695fd07a63fddfe523c8edd518 6802 main/binary-amd64/Packages.gz
+ 4f04f9ef0b0ad7eda09125eeef7b67eb 21172 main/binary-amd64/Packages
+ 4803a0883aac3487f3605a61230bac9d 7071 main/binary-amd64/Packages.gz
  9274c3e8d00f5e724377d18d230ef2d0 70 main/binary-amd64/Release
 SHA1:
- bb2f10e8a9144ba5e6d761f5cc5a15fb034cf0a0 20126 main/binary-amd64/Packages
- dc46de8c2e7537dad4f3d2b82e21d3e55032f2d6 6802 main/binary-amd64/Packages.gz
+ ba3374d15f27cf8c27a5fb7d296462982e0713df 21172 main/binary-amd64/Packages
+ 182e4362b72acf52f7725cfe2a8f28ce29397551 7071 main/binary-amd64/Packages.gz
  64a6c40f3bd6647cd9a590ab5d82c8d5c66c2a21 70 main/binary-amd64/Release
 SHA256:
- 217ea9e19e156ccbc9c601753065a0671835e641571b1f5686ea77f2d78d2e0f 20126 main/binary-amd64/Packages
- 0592d7ffafc02a04046296203148400fe8caddd86bf6a76cd8c369be0579586e 6802 main/binary-amd64/Packages.gz
+ f660d5b64468a3b206ac766c121ff4b133e4c18e5bc35fd05e783a94b6a05903 21172 main/binary-amd64/Packages
+ 3b8798308fb0c8e71039add87ee095fcbe18cb4e4ee505bbdfebcefe4530c594 7071 main/binary-amd64/Packages.gz
  898e8b1118f0fec9ade8fb799cf8468e09a40043afb1f058f430cbe1b1d35dcc 70 main/binary-amd64/Release
