@@ -2,30 +2,30 @@
 Hash: SHA512
 
 Codename: bookworm
-Date: Sat, 15 Apr 2023 03:08:52 UTC
+Date: Sun, 16 Apr 2023 04:39:06 UTC
 Architectures: amd64
 Components: main
 Description: DebianOpt repository
 MD5Sum:
- 4f04f9ef0b0ad7eda09125eeef7b67eb 21172 main/binary-amd64/Packages
- 4803a0883aac3487f3605a61230bac9d 7071 main/binary-amd64/Packages.gz
+ 4197c3922109adcd052e4c992c32b2bb 21994 main/binary-amd64/Packages
+ 50c026978053449a4504f875ccdf0bbb 7334 main/binary-amd64/Packages.gz
  9274c3e8d00f5e724377d18d230ef2d0 70 main/binary-amd64/Release
 SHA1:
- ba3374d15f27cf8c27a5fb7d296462982e0713df 21172 main/binary-amd64/Packages
- 182e4362b72acf52f7725cfe2a8f28ce29397551 7071 main/binary-amd64/Packages.gz
+ 2bcb090850978ce365bb761584d51087541955e3 21994 main/binary-amd64/Packages
+ 3a54afac1e027d62af61e9cc72cb089ba8116219 7334 main/binary-amd64/Packages.gz
  64a6c40f3bd6647cd9a590ab5d82c8d5c66c2a21 70 main/binary-amd64/Release
 SHA256:
- f660d5b64468a3b206ac766c121ff4b133e4c18e5bc35fd05e783a94b6a05903 21172 main/binary-amd64/Packages
- 3b8798308fb0c8e71039add87ee095fcbe18cb4e4ee505bbdfebcefe4530c594 7071 main/binary-amd64/Packages.gz
+ cb72b520c10a5fed6717d0be2e39ea7de7d20814537c0e886397820116f2218a 21994 main/binary-amd64/Packages
+ fad73578975281967cc7f5e54d42b0465395512e21cbbd4b3a67ef2b6f501a40 7334 main/binary-amd64/Packages.gz
  898e8b1118f0fec9ade8fb799cf8468e09a40043afb1f058f430cbe1b1d35dcc 70 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEKzKk5kdM7hiaP1hnumSwRyEJwzAFAmQ6FUQACgkQumSwRyEJ
-wzC28wf+IovlOxSmdr4TeTsRfIMbGJpS4UPZhs4cMFz4wtv6FbpSd4olze1g2V1i
-g6rCcMX6rbAJ2ZuxE3iLwe/I0IswA89hNNrXjLuxFbW8HwFa7CSuEbEOO0EEIyQi
-qmuiraSqsLOon6iG09LwE7S1o67P+KJj9AshKe1rmilfh427f1OpPFrpWO5352t3
-d/V05O2Vo240titAYqrQhqysPXW3qf2pc9kcu0AXFTK9MpM6/bRxBBtCSPBr9MK5
-0W13jGkbV6RnciCVPfGzmxv8AcisSBN+VjtjBG3vGqi1ZLhtZTqG+dPgF4SoLbb/
-X9hNooMlGa4O6k/74owCOmaQ1WJawg==
-=nx2O
+iQEzBAEBCgAdFiEEKzKk5kdM7hiaP1hnumSwRyEJwzAFAmQ7e+oACgkQumSwRyEJ
+wzD1YAgAiCCFWUP74bbRgSwH3xY5JNWTBfDb+e8+CxFtBYCNxFFzXVOiXIToWI9r
+JkjxkJWw2nsLbPzhXuQ23iXGqbKrmczJzP1mGQbIUSQ0Bfd2c/jUhrm6OZo4p8yU
+YjThwGlJR+ULFHVApaScePQJYzJb1gguzusRpPjoX4huEf01zKoHM9sK4n2ltlMM
+SWE0XVPyNyUkGo7T4S8dugGwMf7CPhWX5hBkGNI5LTFGBHiCuVgfdTeBQZIz9N3V
+Fjp22FhXRfMhCdno2Iaea5IdnvkR2W7G1+S4eRozbu6SYsrFr7gOYD9Hx9AvgAGV
+3m8t++grEOkJOiMWI2fpCoxJ3o2ecw==
+=88gH
 -----END PGP SIGNATURE-----

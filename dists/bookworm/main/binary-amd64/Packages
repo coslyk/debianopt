@@ -367,6 +367,22 @@ SHA1: efe1bdc0ee939ee8841da2813355112d6c1f3318
 MD5sum: 51fbece6238568d9b575b861d997f54d
 Description: Code Intelligence for Vala & Genie.
 
+Package: vgrive
+Version: 1.6.1-1~opt12
+Architecture: amd64
+Maintainer: Eduard Berloso Clarà <eduard.bc.95@gmail.com>
+Installed-Size: 1789
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.39.4), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.4), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90)
+Priority: extra
+Section: x11
+Filename: pool/main/v/vgrive/vgrive_1.6.1-1~opt12_amd64.deb
+Size: 111336
+SHA256: ef723b428c26f88e251b143e414b8ea3f641b0e47d1a813bf1c872148f21449c
+SHA1: b8fe758844f0858ab16816417d9f2d58b3e1f876
+MD5sum: 733c4165434241a9e1e4ae6c8efc082d
+Description: VGrive is a client (back-end and front-end) for Google Drive made in vala.
+ Automaticlly detects changes in local and remote files and sync them.
+
 Package: vidbox
 Version: 0.2-1~opt12
 Architecture: amd64
