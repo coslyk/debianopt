@@ -1,18 +1,18 @@
 Package: albert
-Version: 0.20.13-1~opt12
+Version: 0.20.14-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 5821
+Installed-Size: 5808
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libmuparser2v5 (>= 2.3.3), libpython3.11 (>= 3.11.0), libqalculate22 (>= 4.5.1), libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.2.0), libqt6network6 (>= 6.1.2), libqt6sql6 (>= 6.1.2), libqt6statemachine6 (>= 6.2.1), libqt6svg6 (>= 6.2.0), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11), libx11-6, libqt6sql6-sqlite
 Recommends: qml6-module-qtquick-controls
 Homepage: https://github.com/ManuelSchneid3r/albert
 Priority: extra
 Section: utils
-Filename: pool/main/a/albert/albert_0.20.13-1~opt12_amd64.deb
-Size: 2197504
-SHA256: 4c525c3fe8bcf4e51e76822c2421b069554f62145b7927ea0f4a06442389c0c4
-SHA1: 2608b53f7ebaea5ca260e030986e9ad6b82cdbf6
-MD5sum: 6ed2c7abddb8bb42985aee08150a02ca
+Filename: pool/main/a/albert/albert_0.20.14-1~opt12_amd64.deb
+Size: 2194928
+SHA256: a8c827fd5efa196ea1960345ee7f5653a3391adf4bc642be0802be2bb42424c7
+SHA1: 7927f50aaf391f594fcfb961aa10f1dca5f9a0d9
+MD5sum: db593880b63745cd120d601eba2a09e1
 Description: Albert Launcher
  An amazing, desktop environment agnostic omnilauncher.
 
@@ -341,19 +341,19 @@ Description: markdown notes manager
  Markdown notes manager for elementary os.
 
 Package: qownnotes
-Version: 23.4.6-1~opt12
+Version: 23.5.3-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 23815
+Installed-Size: 23919
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11), libx11-6, aspell
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_23.4.6-1~opt12_amd64.deb
-Size: 4266044
-SHA256: 4865bed09b20d8d43d4e70bab2a2924e880245850be35db0a71f4639e45a909e
-SHA1: 69e9b094090edf2b2b1a699538976a1f7840296f
-MD5sum: 93ef726347dcadd3b8f9cf8a03e63b6f
+Filename: pool/main/q/qownnotes/qownnotes_23.5.3-1~opt12_amd64.deb
+Size: 4280116
+SHA256: 70abdb5bfccf87a5cdb3489cc99a9e71f5b98c909f902abbbbf4bec5c9e93992
+SHA1: 66de9e0931f3776c6d80a96333e5914c73a8d322
+MD5sum: 1657596247f50cd24e4d14d9da950c6e
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
