@@ -5,7 +5,7 @@ Description: DebianOpt repository
 SignWith: 2B32A4E6474CEE189A3F5867BA64B0472109C330
 
 Codename: bookworm
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main
 Description: DebianOpt repository
 SignWith: 2B32A4E6474CEE189A3F5867BA64B0472109C330
