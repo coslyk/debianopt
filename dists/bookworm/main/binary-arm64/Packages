@@ -1,0 +1,399 @@
+Package: alohomora
+Version: 1.3.0-1~opt12
+Architecture: arm64
+Maintainer: Taqmeel Zubeir <taqmeelzubeir.dev@gmail.com>
+Installed-Size: 329
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.16.2), libsecret-1-0 (>= 0.18)
+Priority: extra
+Section: x11
+Filename: pool/main/a/alohomora/alohomora_1.3.0-1~opt12_arm64.deb
+Size: 54360
+SHA256: 3717f9de0c589147984d1b587b71e9a5695d287b831c2529f45e44e8c5abf3f5
+SHA1: 86303ec8e272acd5081bad705871100dc46dca4b
+MD5sum: be243c7cb4291a365f8e58cea69c488b
+Description: Store and manage passwords securely
+ A clean and easy-to-use password manager that securely stores all your passwords in your device.
+
+Package: appeditor
+Version: 1.1.3-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 634
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.17.9), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0)
+Priority: optional
+Section: utils
+Filename: pool/main/a/appeditor/appeditor_1.1.3-1~opt12_arm64.deb
+Size: 82664
+SHA256: 5e06fa137048b8b9c912430452697533888315e50a037570ad2d79898dc86b07
+SHA1: 60820f78c3e2eac5bbcb77a94d8cc54d0f50e34b
+MD5sum: 484f55bdd2f774a6f63a72825eda33a5
+Description: Edit application menu
+ AppEditor allows you to edit application entries in the application menu. Some of it's features include:
+ .
+  * Hide and show applications from the application menu
+  * Create new application entries
+  * Change application's display name, icon and more
+
+Package: bingle
+Version: 0.1-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 166
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.25.2), libglib2.0-0 (>= 2.43.92), libgtk-3-0 (>= 3.11.5), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90)
+Priority: optional
+Section: net
+Filename: pool/main/b/bingle/bingle_0.1-1~opt12_arm64.deb
+Size: 34192
+SHA256: 035a9490d6297e173d4872ebb732d955e3eaca9903b39b811b0f3eeff4e114bc
+SHA1: bead365d6632af1e1c4fbb48eb8280a8ca5baddf
+MD5sum: 8222b870c572d75b5b0c825b7896794a
+Description: Download and manage wallpapers from Bing.
+
+Package: ciano
+Version: 0.2.4-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 534
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.16.2), libpango-1.0-0 (>= 1.14.0), ffmpeg, imagemagick
+Priority: optional
+Section: video
+Filename: pool/main/c/ciano/ciano_0.2.4-1~opt12_arm64.deb
+Size: 107496
+SHA256: 002b5fce2b49a8e6834c7813d41a489c4a45f532ebdaf71752da034c20da7dac
+SHA1: d593d607ffba1c82c3813872622a2d25a23f3b91
+MD5sum: b524dde61fef35037ed6af3a928d939f
+Description: A multimedia file converter focused on simplicity.
+
+Package: colorpicker
+Version: 1.1.5-1~opt12
+Architecture: arm64
+Maintainer: Ronny Dobra <ronnydobra@arcor.de>
+Installed-Size: 211
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.4)
+Priority: extra
+Section: x11
+Filename: pool/main/c/colorpicker/colorpicker_1.1.5-1~opt12_arm64.deb
+Size: 27780
+SHA256: 2e7939855c623d0fd65c55a294ab697ad7e0d9cd56b229644d3407ac0d8f3c8e
+SHA1: d1ae3fb9e60b6c09cad30a980a0f1fa41a475fec
+MD5sum: cf5649dd48ab5095909a29ecc7d3772a
+Description: An intuitive Color Picker
+ The most intuitive Color Picker to speed up your workflow
+
+Package: eddy
+Version: 1.3.2-1~opt12
+Architecture: arm64
+Maintainer: Adam Bienkowski <donadigos159@gmail.com>
+Installed-Size: 1213
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.4), libpackagekit-glib2-18 (>= 1.1.0), libzeitgeist-2.0-0 (>= 0.9.9)
+Priority: optional
+Section: utils
+Filename: pool/main/e/eddy/eddy_1.3.2-1~opt12_arm64.deb
+Size: 74668
+SHA256: 2c47108fa8a0340bcfec1c0740d6c5e9d490004cb297f1c02ccfcf6c4c086d2c
+SHA1: deb2ab44ae283c760d4197b303427073a9c9a1b8
+MD5sum: d81006647f0d9845a7c7225b236f940d
+Description: Eddy
+ Simple debian package installer
+
+Package: envelope
+Version: 0.0.4-1~opt12
+Architecture: arm64
+Maintainer: coslyk <cos.lyk@gmail.com>
+Installed-Size: 535
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.16.2), libsqlite3-0 (>= 3.5.9)
+Priority: optional
+Section: utils
+Filename: pool/main/e/envelope/envelope_0.0.4-1~opt12_arm64.deb
+Size: 150020
+SHA256: ef1da34c745ff3136fb64bc7d828c0d699a83d3c5cdd184dc8681da50ee395db
+SHA1: e3aeac8b2e4c0b1b14d73323b4442ff4d6d1e457
+MD5sum: a1ffd15b140df77638a7213cb223e80e
+Description: Personal budget manager
+ Envelope helps you maintain your personal budget by using the tried-and-true envelope system.
+ Designate spending categories (envelopes) and distribute your monthly income into them.
+ Configure accounts where you record all your transactions, then assign each of them to a category.
+ .
+  * Envelope system budget workflow
+  * Import transactions from QIF files
+
+Package: flacon
+Version: 10.0.0-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 5134
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.14.1), libstdc++6 (>= 5.2), libtag1v5 (>= 1.11), libuchardet0 (>= 0.0.1)
+Homepage: https://flacon.github.io/
+Priority: extra
+Section: sound
+Filename: pool/main/f/flacon/flacon_10.0.0-1~opt12_arm64.deb
+Size: 1623568
+SHA256: a2e94d60bf6bd142007677d9e08d1f469362e3b00eed5eeafa095253a0dd2169
+SHA1: 69d4bc3146abf38ae156136bd5fea3826d8a3711
+MD5sum: e81432c18ef6a32de2010e83d215a19a
+Description: Audio File Encoder
+ Extracts audio tracks from an audio CD image to separate tracks.
+
+Package: fondo
+Version: 1.5.2-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 680
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.5), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90)
+Priority: optional
+Section: net
+Filename: pool/main/f/fondo/fondo_1.5.2-1~opt12_arm64.deb
+Size: 174976
+SHA256: b44539dba0ebbd8a2b6793f8528fe63ec60245bb879b838c43378d56bfb3e51b
+SHA1: 32114225d3e6d892cf7214433c3f6fdeb8fa8b26
+MD5sum: 7738b19033c30a628f5a95e7446edd6b
+Description: Wallpaper App for Linux.
+
+Package: gifup
+Version: 0.0.21-1~opt12
+Architecture: arm64
+Maintainer: Bharat Kalluri <kalluribharat@gmail.com>
+Installed-Size: 206
+Depends: ffmpeg, libc6 (>= 2.34), libglib2.0-0 (>= 2.43.92), libgtk-3-0 (>= 3.16.2)
+Priority: extra
+Section: x11
+Filename: pool/main/g/gifup/gifup_0.0.21-1~opt12_arm64.deb
+Size: 17284
+SHA256: f8cd434d82ecf0b574d13881b375d3a901bd8bc02f9f979f9e5711c2a9b254a5
+SHA1: c4cd5d0214cce274f574d08780029b91be6ea604
+MD5sum: ea2853b322b2fd2dc2c852bed57d0828
+Description: Create GIFs from videos.
+
+Package: givemelyrics
+Version: 0.5.0-1~opt12
+Architecture: arm64
+Maintainer: Murilo Venturoso <muriloventuroso@gmail.com>
+Installed-Size: 1057
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.23.0), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.16.2), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90), libxml2 (>= 2.7.4)
+Priority: extra
+Section: x11
+Filename: pool/main/g/givemelyrics/givemelyrics_0.5.0-1~opt12_arm64.deb
+Size: 81788
+SHA256: e1eeed5d3a8282885cb940feb6d808bbe528addc5853a2771e422594fb927d26
+SHA1: 22326f4569921de7e76cf264e72b5f17b36c318c
+MD5sum: a207bc2870bfdc1e9f3d9b06e0f19be3
+Description: See the lyrics of the song that is playing, from any application.
+
+Package: hmcl
+Version: 3.5.4-1~opt12
+Architecture: arm64
+Maintainer: coslyk <cos.lyk@gmail.com>
+Installed-Size: 4215
+Depends: default-jre, openjfx
+Homepage: https://github.com/huanghongxun/HMCL
+Priority: extra
+Section: games
+Filename: pool/main/h/hmcl/hmcl_3.5.4-1~opt12_arm64.deb
+Size: 3979340
+SHA256: bba0e15592374b885574956b77766750b79e280eebe446a1afb2d0982f0256c1
+SHA1: 852c8c7761229df7ab6e9921cb226bd125fd6c33
+MD5sum: 5b443fc518448f2e7d53e7c720751535
+Description: A Minecraft Launcher
+ A Minecraft Launcher which is multi-functional, cross-platform and popular.
+
+Package: imageburner
+Version: 1.0.2-1~opt12
+Architecture: arm64
+Maintainer: Artem Anufrij <artem.anufrij@live.de>
+Installed-Size: 907
+Depends: libc6 (>= 2.34), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.11.5)
+Priority: optional
+Section: x11
+Filename: pool/main/i/imageburner/imageburner_1.0.2-1~opt12_arm64.deb
+Size: 34680
+SHA256: 0be299eb7737deae5b38597e85ae98d7ead5e436008b84c64dfbdaaca0a84efa
+SHA1: 4b42c9e2f6c2255bb2258143487cfc310d1fa214
+MD5sum: 2c6a7992f6777eb1cede76e42f945d5b
+Description: Simple image burner
+ Simple image burner, written especially for elementary OS
+
+Package: komorebi
+Version: 2.2.1-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 33794
+Depends: libc6 (>= 2.34), libclutter-1.0-0 (>= 1.11.10), libclutter-gst-3.0-0 (>= 3.0.4), libclutter-gtk-1.0-0 (>= 0.91.8), libgdk-pixbuf-2.0-0 (>= 2.25.2), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.55.1), libgstreamer1.0-0 (>= 1.0.0), libgtk-3-0 (>= 3.11.5), libwayland-server0 (>= 1.0.2), libwebkit2gtk-4.0-37 (>= 2.5.3)
+Priority: optional
+Section: util
+Filename: pool/main/k/komorebi/komorebi_2.2.1-1~opt12_arm64.deb
+Size: 32289864
+SHA256: 5713c75169f3407c77be33809498fb8087b8aa9afe19ad00a5abee9b6432e362
+SHA1: edf085b18c954f699d9fa27141f06a665b357bb0
+MD5sum: 87097e34ada2c46b6e674a9b05490b1e
+Description: A beautiful and customizable wallpaper manager for Linux.
+
+Package: melody
+Version: 2.2.1-1~opt12
+Architecture: arm64
+Maintainer: Artem Anufrij <artem.anufrij@live.de>
+Installed-Size: 1517
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.0.0), libgtk-3-0 (>= 3.21.5), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90), libsqlite3-0 (>= 3.5.9), libtagc0 (>= 1.5)
+Priority: optional
+Section: x11
+Filename: pool/main/m/melody/melody_2.2.1-1~opt12_arm64.deb
+Size: 209288
+SHA256: 1020b94929201cff4d6f60b9833337b3d3f3ca6a7c7954e224958de3bb1307d2
+SHA1: 577d9c3bcf4a7ad35d84308f7a75bc62109920b8
+MD5sum: d4ff66a382dee3175fc729416144e2a6
+Description: Simple music player
+ A music player for listening local music files and online radios, written especially for elementary OS
+
+Package: moonplayer
+Version: 4.1-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 988
+Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.14.1), libqt5quick5 (>= 5.4.0) | libqt5quick5-gles (>= 5.4.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), qtbase-abi-5-15-8, qtdeclarative-abi-5-15-8, ffmpeg, qml-module-qtquick2, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtquick-window2, qml-module-qt-labs-folderlistmodel, qml-module-qt-labs-settings, wget
+Homepage: https://github.com/coslyk/moonplayer
+Priority: extra
+Section: sound
+Filename: pool/main/m/moonplayer/moonplayer_4.1-1~opt12_arm64.deb
+Size: 297752
+SHA256: 88bd36c8883ae4add67829f8ccb5a3b53e797b501ad1f693a0ced3489a4d4009
+SHA1: e5c1244861fc1866d7a3c19a5d276adf8934abce
+MD5sum: e33160a2e1cdb1be6f53f66b35f0d9b2
+Description: Video player
+ Video player for playing and downloading online videos from youtube, bilibili etc.
+
+Package: notes-up
+Version: 2.0.6-1~opt12
+Architecture: arm64
+Maintainer: Felipe Escoto <felescoto95@hotmail.com>
+Installed-Size: 749
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.37.3), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.5), libgtksourceview-4-0 (>= 3.16.1), libgtkspell3-3-0 (>= 3.0.3), libmarkdown2 (>= 2.0.6), libpango-1.0-0 (>= 1.14.0), libsqlite3-0 (>= 3.5.9), libwebkit2gtk-4.0-37 (>= 2.15.1)
+Priority: optional
+Section: editors
+Filename: pool/main/n/notes-up/notes-up_2.0.6-1~opt12_arm64.deb
+Size: 156172
+SHA256: 097472aac2b6c264634e93b2fa168fa67a986bd8f9484e60d4b8c43098ab0486
+SHA1: c2db5ec9ea45fd3aa7d8b511cab0a8d080c8b706
+MD5sum: c39e580bd1556f5904b3050dd39fd44a
+Description: markdown notes manager
+ Markdown notes manager for elementary os.
+
+Package: qownnotes
+Version: 23.5.3-1~opt12
+Architecture: arm64
+Maintainer: YK Liu <cos.lyk@gmail.com>
+Installed-Size: 23824
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11), libx11-6, aspell
+Homepage: https://github.com/pbek/QOwnNotes
+Priority: extra
+Section: text
+Filename: pool/main/q/qownnotes/qownnotes_23.5.3-1~opt12_arm64.deb
+Size: 4100120
+SHA256: 74363f18b1063c831ed3051702e1418963f74d3cd1add992d6490c6c31a388e5
+SHA1: a8e9467923e617f04f37c7a82c56d9b5ffb15ae6
+MD5sum: 40abe89ae2f555c85455271906d21a50
+Description: Text Editor
+ QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+
+Package: qv2ray
+Version: 2.7.0-1~opt12
+Architecture: arm64
+Maintainer: Guobang Bi <ymshenyu@gmail.com>
+Installed-Size: 5061
+Depends: libabsl20220623 (>= 0~20220623.0-1), libc6 (>= 2.34), libcurl4 (>= 7.16.3), libgcc-s1 (>= 3.0), libgrpc++1.51 (>= 1.51.1), libgrpc29 (>= 1.51.1), libprotobuf32 (>= 3.21.12), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.12.2), libstdc++6 (>= 11)
+Recommends: v2ray
+Homepage: https://github.com/Qv2ray/Qv2ray
+Priority: optional
+Section: net
+Filename: pool/main/q/qv2ray/qv2ray_2.7.0-1~opt12_arm64.deb
+Size: 1465612
+SHA256: 2d6cc3df2f2e6254a9a00f887e684cb4bf969522b09b327398c0efad62195061
+SHA1: 9ea8193d9bf9a1d977377399d1df9d5a016ea602
+MD5sum: 418199e6a173da02fef4263a1c26e5ad
+Description: Qv2ray, A Qt frontend for v2ray. Written in c++.
+
+Package: sdlpal
+Version: 2.0.2021.0214-1~opt12
+Architecture: arm64
+Maintainer: coslyk <cos.lyk@gmail.com>
+Installed-Size: 5028
+Depends: libc6 (>= 2.34), libfltk1.3 (>= 1.3.1), libgcc-s1 (>= 4.2), libgl1, libsdl2-2.0-0 (>= 2.0.12), libstdc++6 (>= 6)
+Homepage: https://github.com/sdlpal/sdlpal
+Priority: optional
+Section: games
+Filename: pool/main/s/sdlpal/sdlpal_2.0.2021.0214-1~opt12_arm64.deb
+Size: 1736180
+SHA256: b91134fcdcc97e75a5cb8517dfd108c1de8b951320d5e38c82f9d8fff34444fd
+SHA1: 552b52ee7d89861111d6a2032ab58c69486a6ad2
+MD5sum: ba1225e31f18a2ad69bd54fcdeb81b5d
+Description: SDL-based reimplementation of the classic Chinese-language RPG "Xian jian Qi Xia Zhuan" (also known as PAL).
+
+Package: spectator
+Version: 0.6.3-1~opt12
+Architecture: arm64
+Maintainer: Marvin Ahlgrimm <marv.ahlgrimm@gmail.com>
+Installed-Size: 1367
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libduktape207 (>= 2.0.3), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.51.2), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.22.29), libgtksourceview-4-0 (>= 2.91.4), libhandy-1-0 (>= 0.82.0), libjson-glib-1.0-0 (>= 1.5.2), libpango-1.0-0 (>= 1.14.0), libsoup2.4-1 (>= 2.41.90), libsqlite3-0 (>= 3.5.9), libwebkit2gtk-4.0-37 (>= 2.15.3), libxml2 (>= 2.7.4)
+Priority: extra
+Section: x11
+Filename: pool/main/s/spectator/spectator_0.6.3-1~opt12_arm64.deb
+Size: 176600
+SHA256: aa54ef662e936f8448dd3d9375e509caeae04106899fdd5e1e41a9bcb7669126
+SHA1: 7c511b14b1f1c6e525058442dfbe10bb0b71fbcc
+MD5sum: 6a864166e06fd4a44e7c9bcb284826dd
+Description: Spectator
+ Application to check endpoints
+
+Package: vgrive
+Version: 1.6.1-1~opt12
+Architecture: arm64
+Maintainer: Eduard Berloso Clarà <eduard.bc.95@gmail.com>
+Installed-Size: 1816
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.39.4), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.21.4), libjson-glib-1.0-0 (>= 1.5.2), libsoup2.4-1 (>= 2.41.90)
+Priority: extra
+Section: x11
+Filename: pool/main/v/vgrive/vgrive_1.6.1-1~opt12_arm64.deb
+Size: 103912
+SHA256: ef2971dbfd7dac2a3bccb1466ffe260f67fcd985ee36f6f9123591de79f9a388
+SHA1: 35e7864f84b3136cfa0b73d9210046b55b4ca231
+MD5sum: dd6b581cc3d73e5493b546989092daab
+Description: VGrive is a client (back-end and front-end) for Google Drive made in vala.
+ Automaticlly detects changes in local and remote files and sync them.
+
+Package: vidbox
+Version: 0.2-1~opt12
+Architecture: arm64
+Maintainer: Yikun Liu <cos.lyk@gmail.com>
+Installed-Size: 490
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libepoxy0 (>= 1.0), libgdk-pixbuf-2.0-0 (>= 2.25.2), libglib2.0-0 (>= 2.43.92), libgtk-3-0 (>= 3.16.2), libjson-glib-1.0-0 (>= 1.5.2), libmpv2 (>= 0.29), ffmpeg
+Priority: optional
+Section: utils
+Filename: pool/main/v/vidbox/vidbox_0.2-1~opt12_arm64.deb
+Size: 60320
+SHA256: 23b35d7f1ececc3d15b4589a75b7831c2d6a7ab28c4f9e455cb79f39e1a727ab
+SHA1: bb5fa8542c7a522c4492db317900f8758cde5184
+MD5sum: 4d7e3f4ad2851f5f4826e5cb7efbeff7
+Description: A tiny video toolbox
+ VidBox is a tiny but useful tool that allows you to split, merge videos and so on.
+
+Package: wiznote
+Version: 2.8.6-1~opt12
+Architecture: arm64
+Maintainer: leaeasy <leaeasy@slingshot.corp.linuxdeepin.com>
+Installed-Size: 21895
+Depends: libc6 (>= 2.36), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webengine5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libx11-6, zlib1g (>= 1:1.1.4)
+Homepage: http://www.wiznote.com
+Priority: optional
+Section: graphics
+Filename: pool/main/w/wiznote/wiznote_2.8.6-1~opt12_arm64.deb
+Size: 4908456
+SHA256: 78bd75178dc7d4d4b1ca26b2829d4de8aaebbe3ebcc38352427efa10fd7959a5
+SHA1: e77361771147acd4de0086369ec2cb84afe0c352
+MD5sum: d51dda471632962df509fc2023b9f64a
+Description: Cross platform cloud based note-taking application
+ Cross platform cloud based note-taking application.
+ .
+ Please refer to WizNote home for more detailed info: http://www.wiznote.com.
+
