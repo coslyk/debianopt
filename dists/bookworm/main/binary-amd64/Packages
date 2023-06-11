@@ -138,7 +138,7 @@ Description: Personal budget manager
   * Import transactions from QIF files
 
 Package: flacon
-Version: 11.0.0-1~opt12
+Version: 11.1.0-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
 Installed-Size: 5067
@@ -146,11 +146,11 @@ Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gu
 Homepage: https://flacon.github.io/
 Priority: extra
 Section: sound
-Filename: pool/main/f/flacon/flacon_11.0.0-1~opt12_amd64.deb
-Size: 1658064
-SHA256: 151db81f0a2ff0ff6b597265b89e7b3f4bf6ccc542b32a62ae5e1cce2bdf0d4c
-SHA1: a8d84baf2cef572f1e1a930c2f5641b2bb774137
-MD5sum: fa9a04016adef5ae520f16475825fe6b
+Filename: pool/main/f/flacon/flacon_11.1.0-1~opt12_amd64.deb
+Size: 1658796
+SHA256: 46ff60238da54d70cca9488622c6277a72a2d51943da20a6f6a558a994517ee7
+SHA1: d319e3274cc49869222b4e0cef2605192e5ce61c
+MD5sum: 0e16459804f93e2117f9b0814d80c250
 Description: Audio File Encoder
  Extracts audio tracks from an audio CD image to separate tracks.
 
@@ -290,19 +290,19 @@ Description: Simple music player
  A music player for listening local music files and online radios, written especially for elementary OS
 
 Package: moonplayer
-Version: 4.1-1~opt12
+Version: 4.2-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 963
-Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.14.1), libqt5quick5 (>= 5.4.0) | libqt5quick5-gles (>= 5.4.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), qtbase-abi-5-15-8, qtdeclarative-abi-5-15-8, ffmpeg, qml-module-qtquick2, qml-module-qtquick-controls2, qml-module-qtquick-layouts, qml-module-qtquick-window2, qml-module-qt-labs-folderlistmodel, qml-module-qt-labs-settings, wget
+Installed-Size: 1170
+Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), qt6-base-abi (= 6.4.2), ffmpeg, qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-settings, qml6-module-qtqml-workerscript, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window
 Homepage: https://github.com/coslyk/moonplayer
 Priority: extra
 Section: sound
-Filename: pool/main/m/moonplayer/moonplayer_4.1-1~opt12_amd64.deb
-Size: 310632
-SHA256: 0816cd0cbd2770435b516e4062bd362ce444bf5bca980623b6d4a954a526a448
-SHA1: f3bb967a70565e5a5a71a1b09cc281b7cd6519a1
-MD5sum: 5a05216393e08f9564229c30b8cff781
+Filename: pool/main/m/moonplayer/moonplayer_4.2-1~opt12_amd64.deb
+Size: 366716
+SHA256: 6bb0022f918f9d8669bd3a473eb91f19b57eca488e83ce750dd633040e050a40
+SHA1: feaba1477cc01ed22e169766fa0ca2a1a11f7d40
+MD5sum: a0dfb66fd85ba4c79ad249110955c49b
 Description: Video player
  Video player for playing and downloading online videos from youtube, bilibili etc.
 
@@ -341,19 +341,19 @@ Description: markdown notes manager
  Markdown notes manager for elementary os.
 
 Package: qownnotes
-Version: 23.5.3-1~opt12
+Version: 23.6.4-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 23919
+Installed-Size: 24141
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11), libx11-6, aspell
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_23.5.3-1~opt12_amd64.deb
-Size: 4280116
-SHA256: 70abdb5bfccf87a5cdb3489cc99a9e71f5b98c909f902abbbbf4bec5c9e93992
-SHA1: 66de9e0931f3776c6d80a96333e5914c73a8d322
-MD5sum: 1657596247f50cd24e4d14d9da950c6e
+Filename: pool/main/q/qownnotes/qownnotes_23.6.4-1~opt12_amd64.deb
+Size: 4302068
+SHA256: 2d6deb63e4f0ea5ea251f2d60f4cb357f846022a736f89e2390e197a68c09e05
+SHA1: 1bc3b3c5da505aa771d5259564c3d98e5e40a5eb
+MD5sum: f2a3434f3824c5e8f850e098dea13bd1
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
