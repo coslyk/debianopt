@@ -138,7 +138,7 @@ Description: Personal budget manager
   * Import transactions from QIF files
 
 Package: flacon
-Version: 11.1.0-1~opt12
+Version: 11.2.0-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
 Installed-Size: 5067
@@ -146,11 +146,11 @@ Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gu
 Homepage: https://flacon.github.io/
 Priority: extra
 Section: sound
-Filename: pool/main/f/flacon/flacon_11.1.0-1~opt12_amd64.deb
-Size: 1658796
-SHA256: 46ff60238da54d70cca9488622c6277a72a2d51943da20a6f6a558a994517ee7
-SHA1: d319e3274cc49869222b4e0cef2605192e5ce61c
-MD5sum: 0e16459804f93e2117f9b0814d80c250
+Filename: pool/main/f/flacon/flacon_11.2.0-1~opt12_amd64.deb
+Size: 1659160
+SHA256: 7b8afd79b6124755e2923b5cc8ef18702f72f5b70576bbf11282816a2d8c790c
+SHA1: 2720a0a6363c6c8dd5efb554b54ccdb630ea2718
+MD5sum: 3e0435c989b7c39b35f899d54a97e2a2
 Description: Audio File Encoder
  Extracts audio tracks from an audio CD image to separate tracks.
 
@@ -200,19 +200,19 @@ MD5sum: db00bab09aa1061e130350ef6883b62a
 Description: See the lyrics of the song that is playing, from any application.
 
 Package: hmcl
-Version: 3.5.4-1~opt12
+Version: 3.5.5-1~opt12
 Architecture: amd64
 Maintainer: coslyk <cos.lyk@gmail.com>
-Installed-Size: 4215
+Installed-Size: 4296
 Depends: default-jre, openjfx
 Homepage: https://github.com/huanghongxun/HMCL
 Priority: extra
 Section: games
-Filename: pool/main/h/hmcl/hmcl_3.5.4-1~opt12_amd64.deb
-Size: 3979260
-SHA256: d7811fe79d0f4379fce13e1f31d397908531af9d36be8ab2a03fde3117cf9980
-SHA1: 61add3d9bc6c4816dee0545db1b49e03fc80142f
-MD5sum: 36957108e279f11815074431b9cb07d6
+Filename: pool/main/h/hmcl/hmcl_3.5.5-1~opt12_amd64.deb
+Size: 4042472
+SHA256: 61f6817b3fa9dba84b4c844d4abc59f859ebd53db7e1f72cb59e5a780cc0a4e8
+SHA1: f38dee53b10678f04fa5ab9a932ed6f3441acfb6
+MD5sum: 537688ca2f32d486e654009401266a48
 Description: A Minecraft Launcher
  A Minecraft Launcher which is multi-functional, cross-platform and popular.
 
@@ -341,19 +341,19 @@ Description: markdown notes manager
  Markdown notes manager for elementary os.
 
 Package: qownnotes
-Version: 23.6.4-1~opt12
+Version: 23.7.3-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 24141
+Installed-Size: 24199
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11), libx11-6, aspell
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_23.6.4-1~opt12_amd64.deb
-Size: 4302068
-SHA256: 2d6deb63e4f0ea5ea251f2d60f4cb357f846022a736f89e2390e197a68c09e05
-SHA1: 1bc3b3c5da505aa771d5259564c3d98e5e40a5eb
-MD5sum: f2a3434f3824c5e8f850e098dea13bd1
+Filename: pool/main/q/qownnotes/qownnotes_23.7.3-1~opt12_amd64.deb
+Size: 4303424
+SHA256: cbe3c4e3e4532efb449e964b17edf2884cb15f89adadcbea287d1791e23c1fe1
+SHA1: 1365ef88a303616b0f701afb585373b35eba44ec
+MD5sum: 996fb4946d4bc5e1b5caed75a3189a98
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
