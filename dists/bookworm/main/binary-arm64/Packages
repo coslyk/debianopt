@@ -246,19 +246,19 @@ Description: Simple music player
  A music player for listening local music files and online radios, written especially for elementary OS
 
 Package: moonplayer
-Version: 4.2-1~opt12
+Version: 4.3-1~opt12
 Architecture: arm64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 1186
-Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), qt6-base-abi (= 6.4.2), ffmpeg, qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-settings, qml6-module-qtqml-workerscript, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window
+Installed-Size: 1058
+Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.3.0), libqt6quick6 (>= 6.2.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), ffmpeg, qml6-module-qtquick-dialogs, qml6-module-qt-labs-settings, qml6-module-qtqml-workerscript, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window
 Homepage: https://github.com/coslyk/moonplayer
 Priority: extra
 Section: sound
-Filename: pool/main/m/moonplayer/moonplayer_4.2-1~opt12_arm64.deb
-Size: 349396
-SHA256: 137d24b7b271115d7aaad573ac2a20486b2cc0379e43f8f5101d2a77d09e9158
-SHA1: 7deb21d4c18b4f3fe5fc6deda303ae893be3d710
-MD5sum: fe299208d6eab6f3a924a842f6d5ba2b
+Filename: pool/main/m/moonplayer/moonplayer_4.3-1~opt12_arm64.deb
+Size: 324324
+SHA256: 4b233c14a16779b4e7848b68b5140e84619244bb26cc91a4165cb5c71dc34e3a
+SHA1: 7fff416ee23f5f107b29fdb9e43c1d6739fb55b8
+MD5sum: a498d8643c4a336c410fa2e650d17751
 Description: Video player
  Video player for playing and downloading online videos from youtube, bilibili etc.
 
