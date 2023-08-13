@@ -1,18 +1,18 @@
 Package: albert
-Version: 0.21.1-1~opt12
+Version: 0.22.0-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 5781
-Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libmuparser2v5 (>= 2.3.3), libpython3.11 (>= 3.11.0), libqalculate22 (>= 4.5.1), libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.2.0), libqt6network6 (>= 6.1.2), libqt6sql6 (>= 6.1.2), libqt6statemachine6 (>= 6.2.1), libqt6svg6 (>= 6.2.0), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11), libx11-6, libqt6sql6-sqlite
+Installed-Size: 5350
+Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libmuparser2v5 (>= 2.3.3), libpython3.11 (>= 3.11.0), libqalculate22 (>= 4.5.1), libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libqt6sql6 (>= 6.1.2), libqt6statemachine6 (>= 6.2.1), libqt6svg6 (>= 6.2.0), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11), libx11-6, libqt6sql6-sqlite
 Recommends: qml6-module-qtquick-controls
 Homepage: https://github.com/ManuelSchneid3r/albert
 Priority: extra
 Section: utils
-Filename: pool/main/a/albert/albert_0.21.1-1~opt12_amd64.deb
-Size: 1999620
-SHA256: ad9ef90db6c5a7ac77a8caedbbe68dd76ccc2b64b5b3e2c6ec9980068555ac86
-SHA1: 4074792a04c1e7037d10f1b11a783b5b9d58eee9
-MD5sum: 32d9ab492e127efff1ff01789d263843
+Filename: pool/main/a/albert/albert_0.22.0-1~opt12_amd64.deb
+Size: 1920124
+SHA256: 5d283e89907f910cb912efb6e45a6677508d0d2a87f8f1e0bdc0ad67e67434a3
+SHA1: c2137a4fe2b27bcf825640974934fca37adc3e1d
+MD5sum: 6e020a5db46e1b7cb91742e47455f0e7
 Description: Albert Launcher
  An amazing, desktop environment agnostic omnilauncher.
 
@@ -290,19 +290,19 @@ Description: Simple music player
  A music player for listening local music files and online radios, written especially for elementary OS
 
 Package: moonplayer
-Version: 4.2-1~opt12
+Version: 4.3-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 1170
-Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), qt6-base-abi (= 6.4.2), ffmpeg, qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-settings, qml6-module-qtqml-workerscript, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window
+Installed-Size: 1046
+Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt6core6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.3.0), libqt6quick6 (>= 6.2.0), libssl3 (>= 3.0.0), libstdc++6 (>= 11), ffmpeg, qml6-module-qtquick-dialogs, qml6-module-qt-labs-settings, qml6-module-qtqml-workerscript, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window
 Homepage: https://github.com/coslyk/moonplayer
 Priority: extra
 Section: sound
-Filename: pool/main/m/moonplayer/moonplayer_4.2-1~opt12_amd64.deb
-Size: 366716
-SHA256: 6bb0022f918f9d8669bd3a473eb91f19b57eca488e83ce750dd633040e050a40
-SHA1: feaba1477cc01ed22e169766fa0ca2a1a11f7d40
-MD5sum: a0dfb66fd85ba4c79ad249110955c49b
+Filename: pool/main/m/moonplayer/moonplayer_4.3-1~opt12_amd64.deb
+Size: 341200
+SHA256: d8539a8a1b0c1c772711134f8fde0df5cdac6a1637b16cb7d8a9ba0e12598a9f
+SHA1: c1b496f41967dd0713163df7ed65faabe2f923e6
+MD5sum: 2abac579f850540a3ed946db3bbc42bb
 Description: Video player
  Video player for playing and downloading online videos from youtube, bilibili etc.
 
