@@ -1,5 +1,5 @@
 Package: albert
-Version: 0.22.2-1~opt12
+Version: 0.22.3-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
 Installed-Size: 5359
@@ -8,11 +8,11 @@ Recommends: qml6-module-qtquick-controls
 Homepage: https://github.com/ManuelSchneid3r/albert
 Priority: extra
 Section: utils
-Filename: pool/main/a/albert/albert_0.22.2-1~opt12_amd64.deb
-Size: 1924540
-SHA256: e0b3e60e6563b7629fa0b0af5fc09fbd303773ac0aa356ec05494c0c5029b7c4
-SHA1: 08fabba5724c6997ee574878642c60d08c47d645
-MD5sum: bb90fd669aa86aa252a33b5976270015
+Filename: pool/main/a/albert/albert_0.22.3-1~opt12_amd64.deb
+Size: 1923588
+SHA256: 1a859378e25e89222a7ad221194576d4f4a1f8f7442bc90d14eb942e7b739439
+SHA1: 3698058c76e566631010b7b31ab520de0ef533d0
+MD5sum: 7070de52c0e4f2710ee888beb325e7c0
 Description: Albert Launcher
  An amazing, desktop environment agnostic omnilauncher.
 
