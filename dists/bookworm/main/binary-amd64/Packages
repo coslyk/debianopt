@@ -341,7 +341,7 @@ Description: markdown notes manager
  Markdown notes manager for elementary os.
 
 Package: qownnotes
-Version: 23.9.2-1~opt12
+Version: 23.9.3-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
 Installed-Size: 24199
@@ -349,11 +349,11 @@ Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gu
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_23.9.2-1~opt12_amd64.deb
-Size: 4309316
-SHA256: 5ca9f55b5240a0785e08cb4ac0653c89e36d02196a056dc014f8ab27214d1087
-SHA1: 10a07ea22ac477a682a4bf0641dffb40550013f4
-MD5sum: f0633eae0964439936d5693553f55f1c
+Filename: pool/main/q/qownnotes/qownnotes_23.9.3-1~opt12_amd64.deb
+Size: 4315288
+SHA256: 27d8eeaca11658345f7993ed7b19d33cc0cfd9c01dcb585578517bda42298590
+SHA1: 0c31caf2adfe8462009f2299646c05c694f7b00f
+MD5sum: ef8af3ed54fb67a66c15a697724f3d1e
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
