@@ -1,18 +1,18 @@
 Package: albert
-Version: 0.22.4-1~opt12
+Version: 0.22.5-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 5449
-Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libmuparser2v5 (>= 2.3.3), libpython3.11 (>= 3.11.0), libqalculate22 (>= 4.5.1), libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.4.0), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libqt6sql6 (>= 6.1.2), libqt6statemachine6 (>= 6.2.1), libqt6svg6 (>= 6.2.0), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11), libx11-6, libqt6sql6-sqlite
+Installed-Size: 3979
+Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpython3.11 (>= 3.11.0), libqalculate22 (>= 4.5.1), libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.4.0), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libqt6sql6 (>= 6.1.2), libqt6statemachine6 (>= 6.2.1), libqt6svg6 (>= 6.2.0), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11), libx11-6, libqt6sql6-sqlite
 Recommends: qml6-module-qtquick-controls
 Homepage: https://github.com/ManuelSchneid3r/albert
 Priority: extra
 Section: utils
-Filename: pool/main/a/albert/albert_0.22.4-1~opt12_amd64.deb
-Size: 1933756
-SHA256: 206bbab51455013d8915585cedb3bcebd79f7c771db22f3cc62efbaf36a24e50
-SHA1: 02216cd36bc4a3178a46fc97f025fb2b1785bb43
-MD5sum: 2d47bb1c873e7cb722473d28dbc128a2
+Filename: pool/main/a/albert/albert_0.22.5-1~opt12_amd64.deb
+Size: 1095944
+SHA256: 6df8d4ec08ed9f7565b8c8b0abd8cd7e3900af332ed9d6de698a234bda3526d5
+SHA1: bde2ac06cfe706c86195ed8536e28ffbf0b623e6
+MD5sum: 51cbcd72113556498e3db03ee96364e6
 Description: Albert Launcher
  An amazing, desktop environment agnostic omnilauncher.
 
@@ -341,19 +341,19 @@ Description: markdown notes manager
  Markdown notes manager for elementary os.
 
 Package: qownnotes
-Version: 23.9.4-1~opt12
+Version: 23.9.5-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 24212
+Installed-Size: 24214
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 11), libx11-6, aspell
 Homepage: https://github.com/pbek/QOwnNotes
 Priority: extra
 Section: text
-Filename: pool/main/q/qownnotes/qownnotes_23.9.4-1~opt12_amd64.deb
-Size: 4315920
-SHA256: 99a4d8fecdb5018ea3421dcbb8fa3dee206c5ddcf5685defdecb5341373ceddf
-SHA1: caf95c063eeb950f86d34186c3a4ca0a9e57abfb
-MD5sum: 9640f95a88957336d9cf00f4f6edad01
+Filename: pool/main/q/qownnotes/qownnotes_23.9.5-1~opt12_amd64.deb
+Size: 4311696
+SHA256: 6f46106ad3bb2f3f002d3392d8da3ceb81fde39c2e3f44bb478a4bd8074ed54a
+SHA1: 228016d44d3076698763e72cfc50a37cf0d721da
+MD5sum: 7e4c7061e74a5b75410ef345346f9d31
 Description: Text Editor
  QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 
