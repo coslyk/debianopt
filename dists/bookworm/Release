@@ -1,25 +1,25 @@
 Codename: bookworm
-Date: Mon, 25 Sep 2023 06:01:23 UTC
+Date: Wed, 27 Sep 2023 05:39:52 UTC
 Architectures: amd64 arm64
 Components: main
 Description: DebianOpt repository
 MD5Sum:
- 8d11170fee556afa940e1a173e839e5c 24776 main/binary-amd64/Packages
- ec8a6c03f9a7e4a847ae52cd8242871d 8163 main/binary-amd64/Packages.gz
+ 069eaedd596cd49959a38b5703fb6e2f 24776 main/binary-amd64/Packages
+ 27446276d1c7c2f7c2a39b097e5623cf 8163 main/binary-amd64/Packages.gz
  9274c3e8d00f5e724377d18d230ef2d0 70 main/binary-amd64/Release
  81efdb128ec5a2c6f606ff7f3bc563e5 19784 main/binary-arm64/Packages
  1161055e9f49c127193418938ca14ad6 6373 main/binary-arm64/Packages.gz
  8b2da7dc244df75dc14d83d21715c0c7 70 main/binary-arm64/Release
 SHA1:
- 6df4f393d32ddc7fe5d6d8d971a699e4bc754c5c 24776 main/binary-amd64/Packages
- 869d2adba813dc2819564dc99543dc722e50176d 8163 main/binary-amd64/Packages.gz
+ dfc5631ab3b6ef79fd5da06813a305fa0cd2c46a 24776 main/binary-amd64/Packages
+ a260375105aec7266453ed1426deb67168c0c365 8163 main/binary-amd64/Packages.gz
  64a6c40f3bd6647cd9a590ab5d82c8d5c66c2a21 70 main/binary-amd64/Release
  cfe95802bf0c104af6301d7baf3e31b2af362ca2 19784 main/binary-arm64/Packages
  ebc0e797a7de2ed6574111b26ec2121a62216bd2 6373 main/binary-arm64/Packages.gz
  ff2a93e3c04e3046686b0fe9c516cfc1518dfb70 70 main/binary-arm64/Release
 SHA256:
- c0caa0a5e0c42d728883a64b69257b2bfd204c2cbe3c0fa914856b1275c05c8a 24776 main/binary-amd64/Packages
- e18c32f998441b7804e067b14562b324157f9d3b085c8270c6b7d9bacd353340 8163 main/binary-amd64/Packages.gz
+ 8a06590fdbab4d57096fae39081198f9fdc1a20074bbf952376649a35d580827 24776 main/binary-amd64/Packages
+ 1ffe1f763aead0295fe781baadc48859b6de977c967ba86c18b15cd9accf81a6 8163 main/binary-amd64/Packages.gz
  898e8b1118f0fec9ade8fb799cf8468e09a40043afb1f058f430cbe1b1d35dcc 70 main/binary-amd64/Release
  bda8b0df690e284504c03f684579aec69811c20446d1b18647fdda77732076d0 19784 main/binary-arm64/Packages
  1702b415d59c23856756b3bf3eddd9326057a8b5cb266aa9d8f7efcd426d99fc 6373 main/binary-arm64/Packages.gz
