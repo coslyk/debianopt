@@ -120,19 +120,19 @@ Description: Personal budget manager
   * Import transactions from QIF files
 
 Package: flacon
-Version: 11.2.0-1~opt12
+Version: 11.3.0-1~opt12
 Architecture: arm64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 5122
+Installed-Size: 4985
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.14.1), libstdc++6 (>= 5.2), libtag1v5 (>= 1.11), libuchardet0 (>= 0.0.1)
 Homepage: https://flacon.github.io/
 Priority: extra
 Section: sound
-Filename: pool/main/f/flacon/flacon_11.2.0-1~opt12_arm64.deb
-Size: 1618152
-SHA256: aab3b5ec99f923b8a12e2be537c2263879a64e20927c931271288eafff3c9e5a
-SHA1: 86e7f43e6187c42847e0a2a09e6890b19fb3a194
-MD5sum: 059f17d1ac8ed5b2dc0ef9ca9f1ec30e
+Filename: pool/main/f/flacon/flacon_11.3.0-1~opt12_arm64.deb
+Size: 1574208
+SHA256: de099830d345836d214bb8b48e382d68c3f3999ab41606a54a82134879dd576d
+SHA1: 3ba5cac93bee485481c41e1c7f9481ab271b208d
+MD5sum: 33d97f21eb72be22c63f99514a0481be
 Description: Audio File Encoder
  Extracts audio tracks from an audio CD image to separate tracks.
 
