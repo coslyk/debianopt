@@ -1,5 +1,5 @@
 Codename: bookworm
-Date: Fri, 10 Nov 2023 05:35:13 UTC
+Date: Fri, 10 Nov 2023 05:40:15 UTC
 Architectures: amd64 arm64
 Components: main
 Description: DebianOpt repository
@@ -7,20 +7,20 @@ MD5Sum:
  212f32eff960a3b8502614bbe327eaf3 24780 main/binary-amd64/Packages
  bccec707bfeb2afca2658495ae996a44 8152 main/binary-amd64/Packages.gz
  9274c3e8d00f5e724377d18d230ef2d0 70 main/binary-amd64/Release
- 07a0a3ff600beea97c85176cc7a765c0 19786 main/binary-arm64/Packages
- 20256fd2a653ec67a34445a66e73fd6b 6370 main/binary-arm64/Packages.gz
+ 92219be7c79da21daf8d3eb3deb50f5d 19786 main/binary-arm64/Packages
+ cc15a699ae531c874d87561523f69c08 6368 main/binary-arm64/Packages.gz
  8b2da7dc244df75dc14d83d21715c0c7 70 main/binary-arm64/Release
 SHA1:
  2c77fd0ecec403343743e7f1355f5850637f2d70 24780 main/binary-amd64/Packages
  9e5baf14ef4a36afd5ac643058e0c5e122b7d572 8152 main/binary-amd64/Packages.gz
  64a6c40f3bd6647cd9a590ab5d82c8d5c66c2a21 70 main/binary-amd64/Release
- 710a936fbb2ba770761a8f4a6815c7dafde479f6 19786 main/binary-arm64/Packages
- 4196e5d440a59cb5765f89ac2d6de6b216094909 6370 main/binary-arm64/Packages.gz
+ 679807c30a035a29479cf481846b5c6c965cacd8 19786 main/binary-arm64/Packages
+ 7470753901dd33a65de0a3c1dff3247f618e938b 6368 main/binary-arm64/Packages.gz
  ff2a93e3c04e3046686b0fe9c516cfc1518dfb70 70 main/binary-arm64/Release
 SHA256:
  57dfefa638165099e03b508e93b0e5a984c8230f7f4d036da8d7e404df691c11 24780 main/binary-amd64/Packages
  6f44f94e0f751f5ef25b53e629a7ae2b6668e999ea0ef3dafcdd0196d1537d69 8152 main/binary-amd64/Packages.gz
  898e8b1118f0fec9ade8fb799cf8468e09a40043afb1f058f430cbe1b1d35dcc 70 main/binary-amd64/Release
- 2ad7b2a7c6b31965f725335e7429712904d6d74ed7575203789cb5c2b9f88430 19786 main/binary-arm64/Packages
- bd07a5e6c75f3db7a963a4634fd84e11b0c85b0dcba1aed4872b822d3961be45 6370 main/binary-arm64/Packages.gz
+ e8803370651dda47392fc4052b30b401029e088634db33ab68554ee7b6176319 19786 main/binary-arm64/Packages
+ 86123b5a9c158c567ee9c8d1868b693eff9d1a872ff2e4b8163e31969336426f 6368 main/binary-arm64/Packages.gz
  594d0000435d895698cca1578e55425ed8c159c97405501c207e7afc5035f6b1 70 main/binary-arm64/Release
