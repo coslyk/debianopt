@@ -33,18 +33,18 @@ Description: Store and manage passwords securely
  A clean and easy-to-use password manager that securely stores all your passwords in your device.
 
 Package: appeditor
-Version: 1.1.3-1~opt12
+Version: 1.1.5-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 598
+Installed-Size: 614
 Depends: dconf-gsettings-backend | gsettings-backend, libc6 (>= 2.34), libcairo2 (>= 1.2.4), libgee-0.8-2 (>= 0.8.3), libglib2.0-0 (>= 2.43.92), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.17.9), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0)
 Priority: optional
 Section: utils
-Filename: pool/main/a/appeditor/appeditor_1.1.3-1~opt12_amd64.deb
-Size: 86052
-SHA256: 6e7aef4fa95f2729520626ed3a0bb34b71dffa5e29c06931d13c137bf50e28dd
-SHA1: 0d01c39630461adab74bd4ca78372baee427cf50
-MD5sum: 39951d9fc5980630b3a574e71df6e68c
+Filename: pool/main/a/appeditor/appeditor_1.1.5-1~opt12_amd64.deb
+Size: 88272
+SHA256: 36fc39debbf7ead23ec4cb1b618789c989e7e36f8667e0fc673219d5bf8eb793
+SHA1: 77bc3c1161d54a3dd7dd209273ee4412eafbcdf6
+MD5sum: 4ed8a4c4c2fa28d7b6fccd2d0b76deba
 Description: Edit application menu
  AppEditor allows you to edit application entries in the application menu. Some of it's features include:
  .
