@@ -1,18 +1,18 @@
 Package: albert
-Version: 0.22.16-1~opt12
+Version: 0.22.17-1~opt12
 Architecture: amd64
 Maintainer: YK Liu <cos.lyk@gmail.com>
-Installed-Size: 4013
+Installed-Size: 4106
 Depends: libarchive13 (>= 3.0.4), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpython3.11 (>= 3.11.0), libqalculate22 (>= 4.5.1), libqt6concurrent6 (>= 6.1.2), libqt6core6 (>= 6.4.0), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.2.0), libqt6quick6 (>= 6.2.0), libqt6sql6 (>= 6.1.2), libqt6statemachine6 (>= 6.2.1), libqt6svg6 (>= 6.2.0), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11), libx11-6, libqt6sql6-sqlite
 Recommends: qml6-module-qtquick-controls
 Homepage: https://github.com/ManuelSchneid3r/albert
 Priority: extra
 Section: utils
-Filename: pool/main/a/albert/albert_0.22.16-1~opt12_amd64.deb
-Size: 1107796
-SHA256: ee1b33342fb618c131e7fcffabaca5faf73258b87d5f23aef3c555f6112922c7
-SHA1: 2c876b680d73266d0a1d6e2c1f542a95116e49aa
-MD5sum: a9bb728fa95b15baf5c0d8a48c7836ba
+Filename: pool/main/a/albert/albert_0.22.17-1~opt12_amd64.deb
+Size: 1123936
+SHA256: ee27b3532a826cb75a2e0ba93482f74ed760af087b5d405bbe8f488f300fe256
+SHA1: 2a2a1866048e5f20294c0f863b35fb42b3cc0e7f
+MD5sum: 2602e11fa08ca59a2225a619f20de184
 Description: Albert Launcher
  An amazing, desktop environment agnostic omnilauncher.
 
